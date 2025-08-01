@@ -115,4 +115,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [@0xRedHood](https://github.com/0xRedHood)** 
+**Made with by [@0xRedHood](https://github.com/0xRedHood)** 
